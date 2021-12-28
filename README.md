@@ -1,2 +1,2 @@
 # PatternRecognition
-圖形識別課堂作業
+NCHU圖形識別課堂作業
